@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Công Nghệ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Phần điều hướng -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Trang Chủ</a></li>
+            <li><a href="cong-nghe.html">Công Nghệ</a></li>
+            <li><a href="the-thao.html">Thể Thao</a></li>
+            <li><a href="giai-tri.html">Giải Trí</a></li>
+            <li><a href="lien-he.html">Liên Hệ</a></li>
+        </ul>
+    </nav>
+
+    <!-- Nội dung của trang Công Nghệ -->
+    <h1>Trang Công Nghệ</h1>
+    <p>Đây là trang Công Nghệ.</p>
+
+</body>
+</html>
